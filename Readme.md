@@ -71,5 +71,5 @@
     3. 複数のipykernelを使い分けることも可能(未検証)
     ```bash
     python -m ipykernel install --user --name [仮想環境名] --display-name [カーネル名]
-    ```z
+    ```
 
